@@ -29,6 +29,7 @@ Fix B
 
 
 Ticket 105 - A
+Done A
 
 Ticket 105 - B
 Done B
